@@ -3077,6 +3077,14 @@ input, select, textarea {
 			background-color: #2a332e;
 		}
 
+		.spotlights > section:nth-child(4) {
+			background-color: #262e29;
+		}
+
+		.spotlights > section:nth-child(5) {
+			background-color: #202723;
+		}
+
 		.spotlights > section.inactive > .image:before,
 		body.is-preload .spotlights > section > .image:before {
 			opacity: 1;
